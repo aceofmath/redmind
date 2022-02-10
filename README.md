@@ -36,9 +36,9 @@
 
 ![마침](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FI3YfJ%2FbtqAVGyViFj%2FsxKESZJVTzu3KAtkhSvEnK%2Fimg.png)
 
-#### 1.2.9. 설치 확인 : http://127.0.0.1/redmine(http://127.0.0.1/redmine)
+#### 1.2.9. 설치 확인 : Redmine 홈 (http://127.0.0.1/redmine)
 
-![설치확인] (https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ft4o4z%2FbtqASzHwdRx%2FYXwvVjERWAQbPFj6gvDaUk%2Fimg.png)
+![설치확인](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Ft4o4z%2FbtqASzHwdRx%2FYXwvVjERWAQbPFj6gvDaUk%2Fimg.png)
 
 ***
 
@@ -52,11 +52,11 @@
 
 ## 3. Plugins 설치
 
-### 3.0. redmine 버전에 맞는 Plugins을 설치해야 함
+### 3.1. redmine 버전에 맞는 Plugins을 설치해야 함
 
-### 3.1. Plugins 선택 : https://redmine.org/ 의 우측 Resources의 Plugins 에서 선택
+### 3.2. Plugins 선택 : https://redmine.org/ 의 우측 Resources의 Plugins 에서 선택
 
-### 3.2. Plugins 추천 
+### 3.3. Plugins 추천 
 
 ```
 1. 이미지라이트 박스 : https://blog.naver.com/aceofmath/221772593716
